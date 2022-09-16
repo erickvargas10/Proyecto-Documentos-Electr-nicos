@@ -1,4 +1,4 @@
-# Proyecto-Documentos-Electr-nicos
+# Proyecto-Documentos-Electronicos
 Proyecto para almacenar documentos de facturas
 
 1) BASE DE DATOS
@@ -10,7 +10,7 @@ Proyecto para almacenar documentos de facturas
 -Tabla de consulta
 ![template consulta](https://user-images.githubusercontent.com/38590809/190711164-7a3c66d3-3627-48e1-8330-47d9cd128138.jpeg)
 
-- Tabla de registro
+-Tabla de registro
 ![template registro](https://user-images.githubusercontent.com/38590809/190711535-4d3c5392-0eae-4e89-8a35-799cbb028bfd.jpeg)
 
 
