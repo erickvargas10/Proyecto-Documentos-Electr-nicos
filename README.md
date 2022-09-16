@@ -7,6 +7,12 @@ Proyecto para almacenar documentos de facturas
 
 2) INTERFACES PÁGINA WEB
 
+-Tabla de consulta
+![template consulta](https://user-images.githubusercontent.com/38590809/190711164-7a3c66d3-3627-48e1-8330-47d9cd128138.jpeg)
+
+- Tabla de registro
+
+
 3) SERVIDOR DE ALOJAMIENTO PÁGINA WEB
 
 4) CONFIGURACIÓN DE DOMINIO Y CERTIFICADO SSL
