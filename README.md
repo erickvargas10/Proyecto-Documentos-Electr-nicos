@@ -11,8 +11,7 @@ Proyecto para almacenar documentos de facturas
 ![template consulta](https://user-images.githubusercontent.com/38590809/190711164-7a3c66d3-3627-48e1-8330-47d9cd128138.jpeg)
 
 - Tabla de registro
-![image](https://user-images.githubusercontent.com/38590809/190711379-86c87241-bc45-4fc1-a431-45f3e6922888.png)
-
+https://user-images.githubusercontent.com/38590809/190711337-342ddd26-118f-44b6-bb68-1b6a5eef8061.jpeg
 
 3) SERVIDOR DE ALOJAMIENTO PÁGINA WEB
 
